@@ -20,7 +20,7 @@ for (let item of galleryItems) {
   imageGallery.alt = item.description;
 }
 
-galleryLink.appendChild(imageGallery);
+linkGallery.appendChild(imageGallery);
 galleryItem.appendChild(linkGallery);
 gallery.appendChild(galleryItem);
 
