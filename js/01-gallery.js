@@ -33,5 +33,3 @@ gallery.addEventListener("click", (event) => {
 
   lightbox.show();
 });
-
-console.log(galleryItems);
